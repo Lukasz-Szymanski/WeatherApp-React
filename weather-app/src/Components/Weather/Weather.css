@@ -11,10 +11,21 @@ h1 {
 }
 
 .weather-app {
-  margin-top: 20px;
-  margin-bottom: 10rem;
+  width: 50rem;
+  height: 40rem;
+  background-color: white;
+  margin-top: 1rem;
+  margin-bottom: 5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.weather-app input {
+  width: 15rem;
+  height: 2rem;
 }
 
 .btn {
   margin-left: 10px;
+  height: 2.4rem;
 }
